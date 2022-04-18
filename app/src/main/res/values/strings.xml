@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Podmoji</string>
+
+
+    <!--Not translatable-->
+    <string name="default_client_id" translatable="false">1076582508989-tr2ats4ck71frkd5odgj4rmgfm0o09bq.apps.googleusercontent.com</string>
+</resources>
